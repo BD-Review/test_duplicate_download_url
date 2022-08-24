@@ -11,6 +11,19 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
+bl_info = {
+"name": "Test Duplicate Download Url",
+"author": "BD",
+"description": "",
+"blender": (2, 80, 0),
+"version": (0, 0, 0),
+"location": "",
+"warning": "",
+"doc_url": "https://github.com/BD-Review/test_duplicate_download_url/",
+"tracker_url": "https://github.com/BD-Review/test_duplicate_download_url/issues",
+"endpoint_url": "https://raw.githubusercontent.com/BD-Review/test_duplicate_download_url/main/endpoint.json",
+"category": "Generic"
+}
 
 
 def register():
